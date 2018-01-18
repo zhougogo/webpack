@@ -1,0 +1,8 @@
+/*! 输入版本信息--周红 */
+body {
+  width: 640px;
+  height: 1040px;
+  background-color: red;
+  -webkit-box-sizing: border-box;
+  box-sizing: border-box;
+}

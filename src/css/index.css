@@ -1,0 +1,9 @@
+body {
+  width: 640px;
+  height: 1040px;
+  background-color: red;
+  box-sizing: border-box
+}
+p{
+  color: red;
+}
